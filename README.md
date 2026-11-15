@@ -93,7 +93,3 @@ jupyter notebook PROJECT_WITH_EXPLAINABLE_AI.ipynb
 - Sadman Zarif Kazmi
 
 Department of Computer Science, BRAC University. Instructor: Annajiat Alim Rasel.
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
